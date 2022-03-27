@@ -2,12 +2,6 @@
 ## Ejercicios y tareas de clase :smile:
 > Aquí encontrará los ejercicios de clase y las tareas por separado
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # Ejercicios primer parcial
 ## Ejercicio1.ipynb
 ## Ejercicio2.ipynb
